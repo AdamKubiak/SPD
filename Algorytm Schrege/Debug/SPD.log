@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\john\source\repos\SPD\SPD\RandomNumberGenerator.h(31,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\john\source\repos\SPD\SPD\main.cpp(185,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  SPD.vcxproj -> C:\Users\john\source\repos\SPD\Debug\SPD.exe
